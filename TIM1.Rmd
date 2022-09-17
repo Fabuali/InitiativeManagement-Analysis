@@ -1,15 +1,15 @@
 ---
 title: "Transformation Initiatives Management Tool"
-author: "Fatimah M Abuali"
-date: "2022-02-15"
+author: "Fatimah Abuali"
+date: "2022-09-17"
 output:
-  prettydoc::html_pretty:
-    theme: architect
-    highlight: github
-    toc: true
+  html_document:
+    toc: yes
     number_section: yes
+    toc_float: yes
+  theme: architect
 ---
-
+  
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
