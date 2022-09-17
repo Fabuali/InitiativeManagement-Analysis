@@ -1,4 +1,6 @@
 # Transformation Initiatives Management Tool
+[![DOI](https://zenodo.org/badge/537768012.svg)](https://zenodo.org/badge/latestdoi/537768012)
+
 
 ### Objective and Aims
 **TIM** is a tool to meet the needs of planning and deploying strategic initiatives during the transition journey.
